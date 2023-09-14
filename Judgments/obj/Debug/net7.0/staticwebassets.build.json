@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "ZvRRecTXQ3FBXyQXjfqcsFuqHeyTQr5cwqbzPfzRxsk=",
+  "Source": "Judgments",
+  "BasePath": "_content/Judgments",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Judgments\\wwwroot",
+      "Source": "Judgments",
+      "ContentRoot": "D:\\work\\Task_Interview\\Judgments\\wwwroot\\",
+      "BasePath": "_content/Judgments",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
