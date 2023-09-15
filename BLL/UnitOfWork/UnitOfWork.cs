@@ -12,18 +12,18 @@ namespace BLL
             context = _context;
             this.cacheService = cacheService;
         }
-       
-        //private IRepository<User> User;
-        //public IRepository<User> _User
-        //{
-        //    get { return User ?? (User = new Repository<User>(context, cacheService)); }
-        //}
 
-        //private IRepository<IdentityRole> identityRole;
-        //public IRepository<IdentityRole> _IdentityRole
-        //{
-        //    get { return identityRole ?? (identityRole = new Repository<IdentityRole>(context, cacheService)); }
-        //}
+        private IRepository<Product> Product;
+        public IRepository<Product> _Product
+        {
+            get { return Product ?? (Product = new Repository<Product>(context, cacheService)); }
+        }
+
+        private IRepository<Category> Category;
+        public IRepository<Category> _Category
+        {
+            get { return Category ?? (Category = new Repository<Category>(context, cacheService)); }
+        }
         public void Save()
         {
             context.SaveChanges();

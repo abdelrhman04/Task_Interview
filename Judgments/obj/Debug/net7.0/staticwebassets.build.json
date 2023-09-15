@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "Hash": "ZvRRecTXQ3FBXyQXjfqcsFuqHeyTQr5cwqbzPfzRxsk=",
-  "Source": "Judgments",
-  "BasePath": "_content/Judgments",
+  "Hash": "movL49akJNfG/eW18BtFUvatsH8Mo97e2MqTdgPpQvo=",
+  "Source": "Task",
+  "BasePath": "_content/Task",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Judgments\\wwwroot",
-      "Source": "Judgments",
+      "Name": "Task\\wwwroot",
+      "Source": "Task",
       "ContentRoot": "D:\\work\\Task_Interview\\Judgments\\wwwroot\\",
-      "BasePath": "_content/Judgments",
+      "BasePath": "_content/Task",
       "Pattern": "**"
     }
   ],

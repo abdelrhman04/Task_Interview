@@ -5051,9 +5051,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\Task_Interview\\Judgments\\Judgments.csproj",
-      "projectName": "Judgments",
-      "projectPath": "D:\\work\\Task_Interview\\Judgments\\Judgments.csproj",
+      "projectUniqueName": "D:\\work\\Task_Interview\\Judgments\\Task.csproj",
+      "projectName": "Task",
+      "projectPath": "D:\\work\\Task_Interview\\Judgments\\Task.csproj",
       "packagesPath": "C:\\Users\\ACA-w10\\.nuget\\packages\\",
       "outputPath": "D:\\work\\Task_Interview\\Judgments\\obj\\",
       "projectStyle": "PackageReference",

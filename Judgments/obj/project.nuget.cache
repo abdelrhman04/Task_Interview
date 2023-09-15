@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3OOsqS9t9RGDfP3x+S+LSFwyMC/DwBkZg4AVJ9Z/sSDWzcSpiZqUOTQDzUm8blFI15zAZu/jVoTfM9GPcuzhaA==",
+  "dgSpecHash": "QZOW607HpNS2advSy6W8H0C+XXudqiZyin1oa4KRwsK39Kdf/igIlREy4k7KF1n1rfiubFG3/H6/y65QkMwF+Q==",
   "success": true,
-  "projectFilePath": "D:\\work\\Task_Interview\\Judgments\\Judgments.csproj",
+  "projectFilePath": "D:\\work\\Task_Interview\\Judgments\\Task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACA-w10\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ACA-w10\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
